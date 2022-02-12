@@ -12,7 +12,7 @@ gem 'fog',                     '1.40.0'
 gem 'webpacker', '~> 4.x'
 
 
-gem 'puma',         '3.9.1'
+gem 'puma',         '5.6.2'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
